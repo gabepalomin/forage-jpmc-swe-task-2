@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+/task2
+
 # production
 /build
 
